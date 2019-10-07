@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
-baseurl: ""
+baseurl: "/index.html"
 url: "https://wwwYoungmin.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
